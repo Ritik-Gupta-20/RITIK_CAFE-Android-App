@@ -1,8 +1,3 @@
-![Screenshot_Kitna Kheloge Yr](https://user-images.githubusercontent.com/76508661/125107915-fa43e280-e0fe-11eb-805b-030d5fa0c933.jpg)
-![Screenshot_Kitna Kheloge Yr](https://user-images.githubusercontent.com/76508661/125107924-fd3ed300-e0fe-11eb-9a73-176af8931899.jpg)
-![Screenshot_Game Complete](https://user-images.githubusercontent.com/76508661/125107932-fe700000-e0fe-11eb-9d98-d78b73b7f91d.jpg)
-![RITIK CAFE App Icon](https://user-images.githubusercontent.com/76508661/125107943-0039c380-e0ff-11eb-918d-901eb7d8350b.jpg)
-![Screenshot_App Starting Interface](https://user-images.githubusercontent.com/76508661/125107946-00d25a00-e0ff-11eb-8cce-117b1a558a08.jpg)
 # RITIK_CAFE-Android-App
 A MULTI-SCREEN Cafeteria App for University and School level.
 
@@ -18,3 +13,8 @@ While waiting for your order, one can play a Tic-Tac-Toe Game in his/her free ti
 With the funny comments side by side.
 
 **Screen Shots** below:
+![Screenshot_Kitna Kheloge Yr](https://user-images.githubusercontent.com/76508661/125107915-fa43e280-e0fe-11eb-805b-030d5fa0c933.jpg)
+![Screenshot_Kitna Kheloge Yr](https://user-images.githubusercontent.com/76508661/125107924-fd3ed300-e0fe-11eb-9a73-176af8931899.jpg)
+![Screenshot_Game Complete](https://user-images.githubusercontent.com/76508661/125107932-fe700000-e0fe-11eb-9d98-d78b73b7f91d.jpg)
+![RITIK CAFE App Icon](https://user-images.githubusercontent.com/76508661/125107943-0039c380-e0ff-11eb-918d-901eb7d8350b.jpg)
+![Screenshot_App Starting Interface](https://user-images.githubusercontent.com/76508661/125107946-00d25a00-e0ff-11eb-8cce-117b1a558a08.jpg)
