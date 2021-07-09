@@ -13,3 +13,8 @@ While waiting for your order, one can play a Tic-Tac-Toe Game in his/her free ti
 With the funny comments side by side.
 
 **Screen Shots** below:
+https://github.com/Ritik-Gupta-20/RITIK_CAFE-Android-App/blob/60913766a3dd7293a3ab93c0ed0c244a90d3361a/RITIK%20CAFE%20App%20Icon.jpg
+https://github.com/Ritik-Gupta-20/RITIK_CAFE-Android-App/blob/60913766a3dd7293a3ab93c0ed0c244a90d3361a/Screenshot_App%20Starting%20Interface.jpg
+https://github.com/Ritik-Gupta-20/RITIK_CAFE-Android-App/blob/60913766a3dd7293a3ab93c0ed0c244a90d3361a/Screenshot_TicTacToe%20Starting%20Interface.jpg
+https://github.com/Ritik-Gupta-20/RITIK_CAFE-Android-App/blob/60913766a3dd7293a3ab93c0ed0c244a90d3361a/Screenshot_Game%20Complete.jpg
+https://github.com/Ritik-Gupta-20/RITIK_CAFE-Android-App/blob/60913766a3dd7293a3ab93c0ed0c244a90d3361a/Screenshot_Kitna%20Kheloge%20Yr.jpg
