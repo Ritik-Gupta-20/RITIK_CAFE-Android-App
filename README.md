@@ -10,5 +10,6 @@ All Employees/Students are given apps, which they can access either on their mob
 The food vendor knows when the food has to be got ready and the employee can go to the counter at the specified time, authenticate his or her order and gets it..
 
 While waiting for your order, one can play a Tic-Tac-Toe Game in his/her free time.
+With the funny comments side by side.
 
 **Screen Shots** below:
